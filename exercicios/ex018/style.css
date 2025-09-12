@@ -1,0 +1,25 @@
+@charset "UTF-8";
+
+@import url('https://fonts.googleapis.com/css2?family=DynaPuff:wght@400..700&family=Honk&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=DynaPuff:wght@400..700&family=Honk&family=Love+Ya+Like+A+Sister&display=swap');
+
+body{
+    background-image: linear-gradient(to right, #732002, #222222);
+    text-align: center;
+}
+main {
+    background-color: white;
+}
+h1 {
+    font-family: Honk;
+    font-size: 3em;
+}
+h2 {
+    font-family: Honk;
+    font-size: 2em;
+}
+p {
+    color: white;
+    font-family: Love Ya Like A Sister;
+}
